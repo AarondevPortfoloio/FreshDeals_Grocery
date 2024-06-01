@@ -1,0 +1,75 @@
+h1{
+  color:green;  
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+nav a{
+    text-decoration: underline;
+
+}
+
+
+
+
+
+.image-container-special {
+    border: 3px solid black;
+    float: right;
+    height: 15rem;
+    width: fit-content;
+}
+div#hello {
+    background-color: green;
+    color: white;
+}
+#hello h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 3rem;
+}
+a.product-item {
+    border: 1px solid black;
+}
+.product-list {
+    display: grid;
+}
+
+footer{
+    margin-top:0px;
+    background-color: green;
+}
+
+
+footer a{
+    color:white;
+}
+
+
+footer a:hover{
+    text-decoration:underline;
+}
+
+
+nav {
+    word-spacing: 0.5rem;
+}
+
+
+h1 {
+    font-family: cursive;
+    color:green;
+}
+
+div.description p {
+    color: black;
+}
+
+footer h3{
+    border-top:solid;
+}
